@@ -2,6 +2,7 @@
 title = "子育ての街ってホント？"
 date = "2016-11-30"
 categories = ["流山の暮らし"]
+tags = ["プロモーション","子ども","子育て"]
 thumbnail = "images/child.jpg"
 +++
 

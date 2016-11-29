@@ -2,6 +2,7 @@
 title = "都心から近いってホント？"
 date = "2016-11-30"
 categories = ["流山の暮らし"]
+tags = ["交通機関"]
 thumbnail = "images/train.jpeg"
 
 +++

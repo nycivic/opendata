@@ -2,6 +2,7 @@
 title = "人口が増えてるそうですね"
 date = "2016-11-30"
 categories = ["流山の暮らし"]
+tags = ["交通機関","人口","子ども","子育て世代"]
 thumbnail = "images/rush.jpg"
 +++
 

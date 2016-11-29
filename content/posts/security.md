@@ -2,6 +2,7 @@
 title = "治安がいいって聞いたけど"
 date = "2016-11-30"
 categories = ["流山の暮らし"]
+tags = ["治安","犯罪","事故","防犯"]
 thumbnail = "images/security.jpeg"
 +++
 

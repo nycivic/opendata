@@ -2,6 +2,7 @@
 title = "森や公園が多いんですか？"
 date = "2016-11-30"
 categories = ["流山の暮らし"]
+tags = ["自然環境","公園"]
 thumbnail = "images/park.jpeg"
 
 +++
