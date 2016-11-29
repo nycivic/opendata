@@ -22,6 +22,8 @@
     {{ .Render "summary" }}
 
     {{ template "_internal/disqus.html" . }}
+    {{ partial "disqus.html" . }}
+
   </div>
 
   <div class="col-md-4">
