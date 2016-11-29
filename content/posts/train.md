@@ -1,5 +1,5 @@
 +++
-title = "都心から近いって聞きました"
+title = "都心から近いってホント？"
 date = "2016-11-30"
 categories = ["流山の暮らし"]
 thumbnail = "images/train.jpeg"
