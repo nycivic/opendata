@@ -13,6 +13,14 @@
   </section>
 
   {{ range $key, $value := .Site.Taxonomies }}
+
+  <ul>
+    {{ range sort .Params.categories }}
+      {{ $taxo := index $.Site.Data.taxonomies (printf "%s" .) }}
+      <li><a href="/categories/{{ . }}/">{{ $taxo }}</a></li>
+    {{ end }}
+  </ul>
+
   <section>
     <header>{{ $key | singularize }}</header>
     <div>
