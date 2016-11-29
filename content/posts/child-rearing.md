@@ -2,7 +2,7 @@
 title = "子育ての街ってホント？"
 date = "2016-11-30"
 categories = ["流山の暮らし"]
-thumbnail = "images/children.jpg"
+thumbnail = "images/child.jpg"
 +++
 
 「母になるなら、流山市。」「父になるなら、流山市。」と、聞いたことがあり、子育てしやすいイメージがあるのですが、本当のところはどうなんでしょう？
