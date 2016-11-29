@@ -1,7 +1,7 @@
 +++
 title = "治安がいいって聞いたけど"
 date = "2016-11-30"
-categories = ["治安"]
+categories = ["流山の暮らし"]
 thumbnail = "images/security.jpeg"
 +++
 
