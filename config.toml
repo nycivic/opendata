@@ -1,4 +1,4 @@
 baseurl = "/"
-title = "My New Hugo Site"
+title = "流山オープンデータラボ"
 languageCode = "en-us"
 theme = "hugo_theme_robust"
