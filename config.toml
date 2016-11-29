@@ -4,4 +4,4 @@ languageCode = "en-us"
 theme = "hugo_theme_robust"
 
 [params]
-dateformat = "2006/Jan/2 Monday"
+dateformat = "2006/11/2 MON"
