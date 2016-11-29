@@ -1,5 +1,5 @@
 +++
-title = "人口が増えているらしいですね"
+title = "人口が増えてるそうですね"
 date = "2016-11-30"
 categories = ["流山の暮らし"]
 thumbnail = "images/rush.jpg"
