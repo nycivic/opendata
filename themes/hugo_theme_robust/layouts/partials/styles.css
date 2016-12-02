@@ -248,6 +248,18 @@ section.article-footer>header {
 /* Parts:article */
 article {
   background-color: rgba(255,255,255,0.6);
+
+
+	/* box-shadow */
+	box-shadow:7px 20px 20px -5px rgba(0,0,0,0.1);
+	-moz-box-shadow:7px 20px 20px -5px rgba(0,0,0,0.1);
+	-webkit-box-shadow:7px 20px 20px -5px rgba(0,0,0,0.1);
+
+
+
+
+
+
 }
 
 article .title {

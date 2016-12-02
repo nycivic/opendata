@@ -36,7 +36,7 @@
       {{ if isset $params $key }}
       <section class="article-footer">
         <header>
-          <a href="{{ $.Site.BaseURL }}{{ $key | urlize }}/">{{ $key | upper }}</a>
+          <a href="{{ $.Site.BaseURL }}{{ $key | urlize }}/">{{ $key  | replaceRE "categories" "カテゴリー" | replaceRE "tags" "タグ" }}</a>
         </header>
         <div>
           <ul class="p-terms inline">
