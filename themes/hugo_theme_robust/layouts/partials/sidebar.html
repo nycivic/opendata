@@ -18,7 +18,7 @@
     <header>{{ $key | replaceRE "categories" "カテゴリー" | replaceRE "tags" "タグ" }}</header>
     <div>
       <ul class="p-terms">
-        {{ range first 10 $value.ByCount }}<li><a href="{{ $.Site.BaseURL}}{{ $key }}/{{ .Name | urlize }}">{{ .Name }}</a></li>{{ end }}
+        {{ range first 10 $value.ByCount }}<li><a href="{{ $.Site.BaseURL}}{{ $key }}/{{ .Name | urlize }}"><button type="button" class="btn btn-success" style="width:200px;">{{ .Name }}</button></a></li>{{ end }}
       </ul>
     </div>
   </section>

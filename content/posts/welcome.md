@@ -1,6 +1,6 @@
 +++
 title = "このサイトについて"
-date = "2099-01-01"
+date = "9999-01-01"
 categories = ["はじめに"]
 thumbnail = "images/macbook.jpg"
 +++
