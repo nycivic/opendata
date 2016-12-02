@@ -13,6 +13,8 @@ body {
   font-weight: 300;
   line-height: 1rem;
   background-color: #eceff1;
+	background-image: url("/images/struckaxiom.png");
+	background-attachment: fixed;
 }
 
 p {
@@ -246,7 +248,7 @@ section.article-footer>header {
 
 /* Parts:article */
 article {
-  background-color: #fff;
+  background-color: rgba(255,255,255,0.6);
 }
 
 article .title {
@@ -268,8 +270,9 @@ article .thumb {
 
 article .summary {
   margin-bottom: .5rem;
-  max-height: 5rem;
+  max-height: 9rem;
   overflow: hidden;
+	line-height: 150%;
 }
 
 article.single .thumb {

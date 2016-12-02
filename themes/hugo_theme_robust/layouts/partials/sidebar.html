@@ -15,14 +15,14 @@
   {{ range $key, $value := .Site.Taxonomies }}
 
   <section>
-    <header>{{ $key | singularize }}</header>
+    <header>{{ $key | replaceRE "categories" "カテゴリー" | replaceRE "tags" "タグ" }}</header>
     <div>
       <ul class="p-terms">
         {{ range first 10 $value.ByCount }}<li><a href="{{ $.Site.BaseURL}}{{ $key }}/{{ .Name | urlize }}">{{ .Name }}</a></li>{{ end }}
       </ul>
     </div>
   </section>
-  
+
   {{ end }}
 
 </aside>
