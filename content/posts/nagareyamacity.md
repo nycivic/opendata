@@ -1,6 +1,6 @@
 +++
 title = "流山市のご紹介"
-date = "2016-11-30T01:44:28+09:00"
+date = "9999-12-12T01:44:28+09:00"
 categories = ["はじめに"]
 tags = ["歴史","交通機関","プロモーション","人口","子ども"]
 thumbnail = "images/nagareyamacity.jpeg"
