@@ -13,8 +13,8 @@ thumbnail = "images/child.jpg"
 
 # データ
 
-- [年齢別子ども数の推移と推計](http://www.city.nagareyama.chiba.jp/information/76/406/016269.html)
-- 保育園関連
+- [町丁字別・年齢別(5歳階級・1歳階級)・男女別人口 【各年4月1日,10月1日】](http://www.city.nagareyama.chiba.jp/information/76/406/016269.html)
+- [公共施設所在地（子育て施設）](http://www.city.nagareyama.chiba.jp/10763/29586/029588.html)
 - 定員数の推移
 - 人口あたりの定員数の他市との比較とか
 - 場所のマッピング
