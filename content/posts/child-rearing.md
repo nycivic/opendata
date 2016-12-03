@@ -13,7 +13,7 @@ thumbnail = "images/child.jpg"
 
 # データ
 
-- 年齢別子ども数の推移と推計
+- [年齢別子ども数の推移と推計](http://www.city.nagareyama.chiba.jp/information/76/406/016269.html)
 - 保育園関連
 - 定員数の推移
 - 人口あたりの定員数の他市との比較とか
